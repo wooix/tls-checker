@@ -2,6 +2,27 @@
 
 Java 1.8과 Spring Boot 2를 사용하여 도메인의 TLS 지원 현황과 사용 가능한 암호화 알고리즘을 확인하는 프로그램입니다.
 
+[![GitHub release](https://img.shields.io/github/release/wooix/tls-checker.svg)](https://github.com/wooix/tls-checker/releases)
+[![GitHub license](https://img.shields.io/github/license/wooix/tls-checker.svg)](https://github.com/wooix/tls-checker/blob/main/LICENSE)
+[![Java](https://img.shields.io/badge/Java-1.8-orange.svg)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.18-brightgreen.svg)](https://spring.io/projects/spring-boot)
+
+## 📥 다운로드 및 설치
+
+### GitHub에서 다운로드
+```bash
+# 저장소 클론
+git clone https://github.com/wooix/tls-checker.git
+cd tls-checker
+
+# 또는 ZIP 파일 다운로드
+# https://github.com/wooix/tls-checker/archive/refs/heads/main.zip
+```
+
+### 최신 릴리스 다운로드
+- [릴리스 페이지](https://github.com/wooix/tls-checker/releases)에서 최신 버전 다운로드
+- `tls-checker-0.0.1-SNAPSHOT.jar` 파일을 다운로드하여 사용
+
 ## 기능
 
 - 도메인의 TLS 버전 지원 현황 확인 (TLSv1, TLSv1.1, TLSv1.2, TLSv1.3)
@@ -137,6 +158,33 @@ src/main/java/ksd/std/tlschecker/
 - **인증서 정보**: 주체, 발급자, 유효기간, 서명 알고리즘 표시
 - **보안 권장사항**: 보안 평가 및 권장사항 제공
 
-## 라이선스
+## 🤝 기여하기
 
-이 프로젝트는 MIT 라이선스 하에 배포됩니다.
+이 프로젝트에 기여하고 싶으시다면:
+
+1. **Fork** 이 저장소
+2. **Feature branch** 생성 (`git checkout -b feature/AmazingFeature`)
+3. **Commit** 변경사항 (`git commit -m 'Add some AmazingFeature'`)
+4. **Push** 브랜치에 (`git push origin feature/AmazingFeature`)
+5. **Pull Request** 생성
+
+## 📝 이슈 및 버그 리포트
+
+- [Issues](https://github.com/wooix/tls-checker/issues)에서 버그 리포트나 기능 요청
+- 새로운 이슈를 생성하기 전에 기존 이슈를 확인해주세요
+
+## 📄 라이선스
+
+이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE](https://github.com/wooix/tls-checker/blob/main/LICENSE) 파일을 참조하세요.
+
+## 👨‍💻 개발자
+
+- **wooix** - [GitHub](https://github.com/wooix)
+
+## 📞 연락처
+
+프로젝트에 대한 질문이나 제안사항이 있으시면 [Issues](https://github.com/wooix/tls-checker/issues)를 통해 연락해주세요.
+
+---
+
+⭐ 이 프로젝트가 도움이 되었다면 Star를 눌러주세요!
