@@ -20,7 +20,7 @@ cd tls-checker
 ```
 
 ### 최신 릴리스 다운로드
-- [릴리스 페이지](https://github.com/wooix/tls-checker/releases)에서 최신 버전 다운로드
+- [릴리스 페이지](https://github.com/wooix/tls-checker/releases)에서 다운로드
 - `tls-checker-0.0.1-SNAPSHOT.jar` 파일을 다운로드하여 사용
 
 ## 기능
@@ -176,15 +176,3 @@ src/main/java/ksd/std/tlschecker/
 ## 📄 라이선스
 
 이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE](https://github.com/wooix/tls-checker/blob/main/LICENSE) 파일을 참조하세요.
-
-## 👨‍💻 개발자
-
-- **wooix** - [GitHub](https://github.com/wooix)
-
-## 📞 연락처
-
-프로젝트에 대한 질문이나 제안사항이 있으시면 [Issues](https://github.com/wooix/tls-checker/issues)를 통해 연락해주세요.
-
----
-
-⭐ 이 프로젝트가 도움이 되었다면 Star를 눌러주세요!
